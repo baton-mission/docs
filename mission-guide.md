@@ -5,15 +5,18 @@
 ---
 
 #### 1. [바톤 홈페이지](https://baton-review.com)에 로그인한 후 이벤트 페이지로 이동합니다.
-   ![](./review-step1-images/select_mission.png)
+
+   <img width="1261" alt="스크린샷 2023-09-19 오전 11 21 41" src="https://github.com/baton-mission/docs/assets/140675388/45300262-2470-4e50-b6f8-a3d75714cded">
 
 ---
 
 </br>
 
-
 #### 2. 미션 시작 버튼을 클릭하면 해당 레포지토리에 본인 깃허브 아이디로 된 브랜치가 생성됩니다. 미션 시작 버튼을 눌렀음에도 본인의 브랜치가 생성되지 않았다면 문의주시면 감사하겠습니다.
-   ![](./review-step1-images/my_team_btn.png)
+
+   <img width="863" alt="스크린샷 2023-09-19 오전 11 23 16" src="https://github.com/baton-mission/docs/assets/140675388/e6373b3f-9488-44df-8ad0-38b4f7cea2be">
+   <img width="632" alt="스크린샷 2023-09-19 오전 11 23 30" src="https://github.com/baton-mission/docs/assets/140675388/cd10229e-0ed8-4a43-8ea9-9e2fde8d2851">
+
 
 ---
 
